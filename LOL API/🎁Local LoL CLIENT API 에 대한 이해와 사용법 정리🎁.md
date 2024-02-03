@@ -13,7 +13,8 @@ LOL에서 제공하는 Local API는 두 개가 있습니다. 하나씩 설명 �
 
  첫번쨰로 'LOL 로비 화면' 이라 불리는 (본 게임에 들어가기 전에, 아이템샵, 친구와의 채팅, 게임 시작 버튼을 누르는) LOL Client에 대한 API 입니다. 밑은 예시 입니다.
 
-<img src="C:\Users\SSAFY\AppData\Roaming\Typora\typora-user-images\image-20240112103543104.png" alt="image-20240112103543104" style="zoom:75%;" align="left"/>
+![image-20240112103543104](https://github.com/dalcheonroadhead/WitPocket/assets/102154788/f6b625c9-55f1-4437-89dd-0328aa254581)
+
 
 해당 API는 LCU(Lol client Update)라는 이름으로 불립니다. 해당 API의 라이프 사이클은 다음과 같습니다. 
 
@@ -25,7 +26,8 @@ LCU는 LOL의 아이콘 버튼 (leagueoflegend.ex)가 눌리는지로 활성화�
 다음은 LCU의 SWAGGER 입니다. 해당 SWAGGER는 LOL client를 실행하는 중에만 사용 가능합니다. 
 https://www.mingweisamuel.com/lcu-schema/tool/
 
-<img src="C:\Users\SSAFY\AppData\Roaming\Typora\typora-user-images\image-20240112104113400.png" alt="image-20240112104113400" style="zoom:80%;" />
+![image-20240112104113400](https://github.com/dalcheonroadhead/WitPocket/assets/102154788/d1c783fc-6bd7-435b-8261-ec7a369a2dcc)
+
 
 해당 API를 통해서 현재 서비스 중인 자동 룬 설정, 챔피언 선택/ 벤 화면에서 팀원의 챔피언 선택마다 승률을 실시간 통계로 보여주는 로직등을 구현합니다.
 
@@ -82,8 +84,10 @@ https://developer.riotgames.com/docs/lol#game-client-api_live-client-data-api
 해당 페이지에 쓸 수 있는 API가 나와있습니다. 
 
 https://github.com/ar414-com/pansen-panel/tree/master
-위의 깃허브는 게임 진행에 따른 실시간 통계를 간략하게 보여주는 프로젝트 입니다. 해당 코드가 2년 전이어서, 그때 당시와 메타 데이터가 달라진 게 좀 있어서 잘 돌아가진 않지만, 해당 내용 참고해서 크롤링 성공하긴 했습니다. 
-![image-20240112121358211](C:\Users\SSAFY\AppData\Roaming\Typora\typora-user-images\image-20240112121358211.png)
+위의 깃허브는 게임 진행에 따른 실시간 통계를 간략하게 보여주는 프로젝트 입니다. 해당 코드가 2년 전이어서, 그때 당시와 메타 데이터가 달라진 게 좀 있어서 잘 돌아가진 않지만, 해당 내용 참고해서 크롤링 성공하긴 했습니다.
+
+![image-20240112121358211](https://github.com/dalcheonroadhead/WitPocket/assets/102154788/84ef167a-a0b5-4aba-82ad-6574428cd691)
+
 
 ## 4. 저희 프로젝트에서 해당 기술 사용에 대하여...
 
@@ -110,7 +114,8 @@ https://github.com/ar414-com/pansen-panel/tree/master
 
    맞습니다.  
 
-![image-20240112123257422](C:\Users\SSAFY\AppData\Roaming\Typora\typora-user-images\image-20240112123257422.png)
+![image-20240112123257422](https://github.com/dalcheonroadhead/WitPocket/assets/102154788/93c642c4-0518-40b5-8ef6-b9b65770a6ce)
+
 
 하지만 OP.GG나 Discord도 이렇게 윈도우용 앱을 따로 두고 있으니, 친구들한테 더 자세한 실시간 정보를 주고 싶은 사람들은 해당 APP을 깔도록 하면 어떨까 하는 제안을 합니다. 그래서 앱을 깐 사람들은 킬 뎃 어시, 실시간 골드, 용 죽인 시점, 포탑 부순 시점, 친구들과의 챗 등등 자세한 정보를 데스크 톱 앱이 실시간으로 긁어서 web server와 RestAPI를 실시하고, 앱을 깔지 않은 사람들은 게임에 들어간지 얼마나 되었는지, 무슨 챔피언을 하고 있고, 스펠은 뭐 끼고 들어갔는지의 정보만 보여주는 것 입니다. 
 
