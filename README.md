@@ -11,7 +11,7 @@
 | 3. 인사이트 큐레이팅 SNS RSS Museum                       | [PPT 링크](https://www.canva.com/design/DAF5XBsjtyY/d5qgEuaz11iVI0Xa9Er_6Q/edit?utm_content=DAF5XBsjtyY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 2024-01-11   |
 | 4. 본격! 친구 놀리기 SNS 까도 내가 까! (KKA KKA)          | [PPT 링크](https://www.canva.com/design/DAF65D868-4/Ws-_i9k_-Sv-j9M24nKxrA/edit?utm_content=DAF65D868-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 2024-01-26   |
 | 5. 지역별 음악 차트 서비스 지뭐듣 (지역별로 뭐 들어?)     | [준비중...]()                                                | 2023-09-01 ~ |
-| 6. 롤 API의 종류와 사용법, 그것을 활용할 방법에 대한 회고 |                                                              | 2024-01-15   |
+| 6. 롤 API의 종류와 사용법, 그것을 활용할 방법에 대한 회고 | [자료 링크](https://github.com/dalcheonroadhead/WitPocket/tree/main/LOL%20API) | 2024-01-15   |
 
 ###                             ˗ˋˏ♡ˎˊ˗ IT 업계의 제갈량이 될 남자 전수민 ˗ˋˏ♡ˎˊ˗
 
