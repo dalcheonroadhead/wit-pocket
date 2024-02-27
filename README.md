@@ -12,7 +12,8 @@
 | 4. 본격! 친구 놀리기 SNS 까도 내가 까! (KKA KKA)          | [PPT 링크](https://www.canva.com/design/DAF65D868-4/Ws-_i9k_-Sv-j9M24nKxrA/edit?utm_content=DAF65D868-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 2024-01-26   |
 | 5. 지역별 음악 차트 서비스 지뭐듣 (지역별로 뭐 들어?)     | [준비중...]()                                                | 2023-09-01 ~ |
 | 6. 롤 API의 종류와 사용법, 그것을 활용할 방법에 대한 회고 | [자료 링크](https://github.com/dalcheonroadhead/WitPocket/tree/main/LOL%20API) | 2024-01-15   |
-| 7. 여행 대장 정하기! | [자료 링크](https://github.com/dalcheonroadhead/WitPocket/tree/main) | 2024-01-15   |
-| 8. 전세사기 사냥꾼! -믿을 수 있는 부동산 거래 어플(블록체인 이용)  |[자료 링크](https://oval-guanaco-139.notion.site/93c64b0cb5fa46b2af45647bf1dfc815?pvs=4) | 2024-02-27 |
+| 7. 여행 대장 정하기! | [자료 링크](https://github.com/dalcheonroadhead/WitPocket/tree/main) | 2024-02-25   |
+| 8. 전세사기 사냥꾼! -믿을 수 있는 부동산 거래 어플(블록체인 이용)  |[자료 링크](https://oval-guanaco-139.notion.site/93c64b0cb5fa46b2af45647bf1dfc815?pvs=4) | 2024-02-26 |
+| 9. 바이럴 걱정 없이 내가 떠먹여줄게! RealFeeding | [자료링크](https://www.notion.so/RealFeeding-00315fce717f4ea086389f566c7d598d) | 2024-02-26 |
 ###                             ˗ˋˏ♡ˎˊ˗ IT 업계의 제갈량이 될 남자 전수민 ˗ˋˏ♡ˎˊ˗
 
