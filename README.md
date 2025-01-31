@@ -26,7 +26,6 @@
 | 15. 시각장애인 중고 거래 어플 | [자료링크](https://github.com/dalcheonroadhead/WitPocket/blob/main/4%EC%B0%A8%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/%EC%8B%9C%EA%B0%81%20%EC%9E%A5%EC%95%A0%EC%9D%B8%20%EA%B1%B0%EB%9E%98%20%EC%96%B4%ED%94%8C.pdf) | 2024-04-13 | X |
 | 16. 어른들의 삼국지 [러닝 땅따먹기] | [자료링크](https://github.com/dalcheonroadhead/WitPocket/blob/main/4%EC%B0%A8%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/%EC%96%B4%EB%A5%B8%EB%93%A4%EC%9D%98%20%EC%82%BC%EA%B5%AD%EC%A7%80%20%20%20%EB%9F%AC%EB%8B%9D%20%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.pdf) | 2024-04-13 | X |
 | 17. 릴레이 방식 학급 교육: 바톤 터치! | [자료링크](https://github.com/dalcheonroadhead/WitPocket/blob/main/5%EC%B0%A8%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/%EB%A6%B4%EB%A0%88%EC%9D%B4%20%EB%B0%A9%EC%8B%9D%20%ED%95%99%EA%B8%89%20%EA%B5%90%EC%9C%A1%20%EB%B0%94%ED%86%A4%20%ED%84%B0%EC%B9%98!.pdf) | 2024-04-15 | SSAFY 자율 |
-###                             ˗ˋˏ♡ˎˊ˗ IT 업계의 제갈량이 될 남자 전수민 ˗ˋˏ♡ˎˊ˗
 
 
 
